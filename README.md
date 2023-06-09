@@ -5,6 +5,7 @@ Hi there, I'm <a href="https://github.com/sofiagakalo1" target="_blank" rel="nor
 <h2 align="center">
 I'm a Junior Frontend Developer 💻
 </h2> 
+<h4 align="center">From Kyiv, Ukraine🇺🇦, but currently living in Warsaw, Poland🇵🇱</h4>
 
 I love the entire process of developing creative websites.
 
@@ -14,41 +15,40 @@ I love the entire process of developing creative websites.
 <a href="https://www.instagram.com/sofia.hakalo/"><img align="left" src="./images/instagram.png" alt="Sofiia Hakalo | Instagram" width="21px"/></a>
 <a href="https://www.facebook.com/profile.php?id=100005136528876"><img align="left" src="./images/telegram.png" alt="Sofiia Hakalo | Facebook" width="21px"/></a>
 <a href="https://t.me/sofiia_hakalo"><img align="left" src="./images/facebook.png" alt="Sofiia Hakalo | Telegram" width="21px"/></a>
- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+ 
+ <a href="mailto:sofiiahakalo@gmail.com"><img align="left" src="./images/gmail.png" alt="Sofiia Hakalo | Email" width="21px"/>sofiiahakalo@gmail.com</a>
 
 ## 🔭 I'm currently working on
 
 - My old projects
-- Phonebook (React-Native)
+- <a href="https://github.com/sofiagakalo1/goit-react-hw-08-phonebook">Phonebook (React-Native)</a>
 
 ## 🌱 I'm currently learning
 
 - 📱 React Native
 - TypeScript 
 
+## 💪 My projects
+
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 </br>
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </br>
 
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
