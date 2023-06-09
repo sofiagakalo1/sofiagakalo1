@@ -10,13 +10,9 @@ I love the entire process of developing creative websites.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/sofiia-hakalo/"><img align="left" src="![image](https://github.com/sofiagakalo1/sofiagakalo1/assets/108238510/7c6760d5-fa47-4599-a821-dc890087e7ac)
-" alt="Sofiia Hakalo | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/sofia.hakalo/"><img align="left" src="![image](https://github.com/sofiagakalo1/sofiagakalo1/assets/108238510/117e4168-7e8e-4064-8a35-fd677d86d0c4)
-" alt="Sofiia Hakalo | Instagram" width="21px"/></a>
-<a href="https://www.facebook.com/profile.php?id=100005136528876"><img align="left" src="![image](https://github.com/sofiagakalo1/sofiagakalo1/assets/108238510/0026c6d7-96e7-4d5e-b3d3-f32d2ddc8fa9)" alt="Sofiia Hakalo | Facebook" width="21px"/></a>
-<a href="https://www.facebook.com/profile.php?id=100005136528876"><img align="left" src="" alt="Sofiia Hakalo | Facebook" width="21px"/></a>
-</br>
+<a href="https://www.linkedin.com/in/sofiia-hakalo/"><img align="left" src="./images/linkedin.png" alt="Sofiia Hakalo | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/sofia.hakalo/"><img align="left" src="./images/instagram.png" alt="Sofiia Hakalo | Instagram" width="21px"/></a>
+<a href="https://www.facebook.com/profile.php?id=100005136528876"><img align="left" src="./images/facebook.png" alt="Sofiia Hakalo | Facebook" width="21px"/></a>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
