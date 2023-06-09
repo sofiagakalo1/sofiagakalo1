@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
 Hi there, I'm <a href="https://github.com/sofiagakalo1" target="_blank" rel="noreferrer">Sofiia Hakalo</a> 👋
-</h3>
+</h1>
 
 <h2 align="center">
 I'm a Junior Frontend Developer 💻
@@ -22,10 +22,7 @@ I love the entire process of developing creative websites.
 ## 🔭 I'm currently working on
 
 - My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- Phonebook (React-Native)
 
 ## 🌱 I'm currently learning
 
