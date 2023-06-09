@@ -18,11 +18,6 @@ I love the entire process of developing creative websites.
  
  <a href="mailto:sofiiahakalo@gmail.com"><img align="left" src="./images/gmail.png" alt="Sofiia Hakalo | Email" width="21px"/>sofiiahakalo@gmail.com</a>
 
-## 🔭 I'm currently working on
-
-- My old projects
-- <a href="https://github.com/sofiagakalo1/goit-react-hw-08-phonebook">Phonebook</a>
-
 ## 🌱 I'm currently learning
 
 - 📱 React Native
