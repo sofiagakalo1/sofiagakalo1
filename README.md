@@ -21,7 +21,7 @@ I love the entire process of developing creative websites.
 ## 🔭 I'm currently working on
 
 - My old projects
-- <a href="https://github.com/sofiagakalo1/goit-react-hw-08-phonebook">Phonebook (React-Native)</a>
+- <a href="https://github.com/sofiagakalo1/goit-react-hw-08-phonebook">Phonebook</a>
 
 ## 🌱 I'm currently learning
 
@@ -29,6 +29,12 @@ I love the entire process of developing creative websites.
 - TypeScript 
 
 ## 💪 My projects
+
+- <a href="https://github.com/sofiagakalo1/goit-markup-hw-08">Web studio (personal project)</a>
+- <a href="https://github.com/sofiagakalo1/goit-react-hw-08-phonebook">Phonebook (personal project)</a>
+- <a href="https://github.com/sofiagakalo1/3d-freedom-group11">3D-freedom (team project)</a>
+- <a href="https://github.com/sofiagakalo1/filmoteka-by-10x">Filmoteka (team project)</a>
+- <a href="https://github.com/sofiagakalo1/purrfect-match-frontend">Your pet (team project)</a>
 
 ## 💼 Technical Skills
 
@@ -45,6 +51,7 @@ I love the entire process of developing creative websites.
 
 </br>
 
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </br>
