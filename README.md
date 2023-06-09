@@ -12,8 +12,9 @@ I love the entire process of developing creative websites.
 
 <a href="https://www.linkedin.com/in/sofiia-hakalo/"><img align="left" src="./images/linkedin.png" alt="Sofiia Hakalo | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/sofia.hakalo/"><img align="left" src="./images/instagram.png" alt="Sofiia Hakalo | Instagram" width="21px"/></a>
-<a href="https://www.facebook.com/profile.php?id=100005136528876"><img align="left" src="./images/facebook.png" alt="Sofiia Hakalo | Facebook" width="21px"/></a>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<a href="https://www.facebook.com/profile.php?id=100005136528876"><img align="left" src="./images/telegram.png" alt="Sofiia Hakalo | Facebook" width="21px"/></a>
+<a href="https://t.me/sofiia_hakalo"><img align="left" src="./images/facebook.png" alt="Sofiia Hakalo | Telegram" width="21px"/></a>
+ 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
