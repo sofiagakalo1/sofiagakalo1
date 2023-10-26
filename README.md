@@ -2,9 +2,6 @@
 Hi there, I'm <a href="https://github.com/sofiagakalo1" target="_blank" rel="noreferrer">Sofiia Hakalo</a> 👋
 </h1>
 
-<h2 align="center">
-I'm a Junior Frontend Developer 💻
-</h2> 
 <h4 align="center">From Kyiv, Ukraine🇺🇦, but currently living in Warsaw, Poland🇵🇱</h4>
 
 I love the entire process of developing creative websites.
