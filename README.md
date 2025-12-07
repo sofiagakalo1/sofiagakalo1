@@ -2,8 +2,6 @@
 Hi there, I'm <a href="https://github.com/sofiagakalo1" target="_blank" rel="noreferrer">Sofiia Hakalo</a> 👋
 </h1>
 
-I love the entire process of developing creative websites.
-
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/sofiia-hakalo/"><img align="left" src="./images/linkedin.png" alt="Sofiia Hakalo | LinkedIn" width="21px"/></a>
