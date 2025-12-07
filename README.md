@@ -11,19 +11,6 @@ I love the entire process of developing creative websites.
  
  <a href="mailto:sofiiahakalo@gmail.com"><img align="left" src="./images/gmail.png" alt="Sofiia Hakalo | Email" width="21px"/>sofiiahakalo@gmail.com</a>
 
-## 🌱 I'm currently learning
-
-- 📱 React Native
-- TypeScript 
-
-## 💪 My projects
-
-- <a href="https://github.com/sofiagakalo1/goit-markup-hw-08">Web studio (personal project)</a>
-- <a href="https://github.com/sofiagakalo1/phonebook">Phonebook (personal project)</a>
-- <a href="https://github.com/sofiagakalo1/3d-freedom-group11">3D-freedom (team project)</a>
-- <a href="https://github.com/sofiagakalo1/filmoteka-by-10x">Filmoteka (team project)</a>
-- <a href="https://github.com/sofiagakalo1/purrfect-match-frontend">Your pet (team project)</a>
-
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
